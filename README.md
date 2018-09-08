@@ -1,1 +1,1 @@
-# kickoff-week
+# week-1-lesson-plan
